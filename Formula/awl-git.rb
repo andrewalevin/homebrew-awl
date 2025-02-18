@@ -3,7 +3,7 @@ class AwlGit < Formula
   homepage "https://github.com/andrewalevin/homebrew-awl"
   url "https://raw.githubusercontent.com/andrewalevin/homebrew-awl/main/awl-git.sh"
   version "1.0.0"
-  sha256 "<SHA256_CHECKSUM>" # Replace this with the actual checksum
+  sha256 "e443d9c6c666f983f8155334efb87af2ea7b9f4559f63cd5ae40b665f5af5f29"
 
   def install
     bin.install "awl-git.sh" => "awl-git"
