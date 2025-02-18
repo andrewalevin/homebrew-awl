@@ -1,3 +1,1 @@
-# homebrew-awl
-
-♻️ Homebrew AWL Collection
+# ♻️ Homebrew AWL Collection
